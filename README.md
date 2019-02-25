@@ -1,6 +1,10 @@
 # datascience
+課名：107-2 資料科學程式設計
+
 week1:
-  github setup
+  i. github setup
 
 week2:
-	hw.0
+  i. install jupyter notebook and learn its interface
+  ii.finish hw.0
+	
