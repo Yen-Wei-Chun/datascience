@@ -6,5 +6,5 @@ week1:
 
 week2:
   i. install jupyter notebook and learn its interface
-  ii.finish hw.0
+  ii.hw.0 : 理解網路爬蟲，完成註解
 	
