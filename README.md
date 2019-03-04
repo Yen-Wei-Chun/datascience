@@ -8,5 +8,6 @@ week2:
   i. hw.0 : 理解網路爬蟲，完成註解
 
 week3:
-  i. hw.0 : 
+  i. hw.0 : 複習matplotlib繪圖
+  ii. Pandas 資料處理
 	
