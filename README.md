@@ -17,6 +17,6 @@
 2019-03-14
 >week4:
 >>i. PyWebScrapingBook : 
->>>check errors when getting title 
+>>>check errors when getting title  
 >>>parsing HTML
 	
