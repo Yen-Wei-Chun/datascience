@@ -18,5 +18,7 @@
 >week4:
 >>i. PyWebScrapingBook : 
 >>>check errors when getting title  
->>>parsing HTML
+>>>parsing HTML   
+>>>selectors for BeautifulSoup : regular expressions & lambda function
+
 	
