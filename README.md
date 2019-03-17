@@ -19,6 +19,10 @@
 >>i. PyWebScrapingBook : 
 >>>check errors when getting title  
 >>>parsing HTML   
->>>selectors for BeautifulSoup : regular expressions & lambda function
+>>>selectors for BeautifulSoup : regular expressions & lambda function  
+
+>>ii. hw.1 :  
+>>>read excel files using pandas  
+>>>matplotlib barplot / stackedbarplot
 
 	
