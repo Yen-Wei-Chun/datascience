@@ -21,8 +21,8 @@
 >>>parsing HTML   
 >>>selectors for BeautifulSoup : regular expressions & lambda function  
 
->>ii. hw.1 :  
+>>ii. hw.1 :Nomura_data  
 >>>read excel files using pandas  
->>>matplotlib barplot / stackedbarplot
+>>>matplotlib barplot / stackedbarplot  
 
 	
