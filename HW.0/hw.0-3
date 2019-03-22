@@ -1,0 +1,11 @@
+# 畫圖(折線圖)
+import matplotlib.pyplot as plt
+
+# 畫長20寬6的圖像窗口
+plt.figure(figsize=(20,6))
+# (x座標數據, y座標數據(從pandas DataFrame裡取出蔡英文從2018-11-01～的每日詞數), 圖示(需plt.legend(loc='')來顯示)
+plt.plot(aall_date[147:], df.loc['蔡英文']['2018-11-01':], label='蔡英文')
+# 調整x座標軸的顯示(80天資料每4天顯示日期)
+plt.xticks(list(range(0, 80, 4)), [aall_date[-150::-1][i] for i in range(0, 80, 4)])
+plt.show()
+
