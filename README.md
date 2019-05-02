@@ -49,4 +49,19 @@
 >>i. hw.1 : ETF
 >>>計算ETF的風險、報酬並分析：使用假設檢定、圖表呈現
 
+2019-04-18
+>week9:
+>> i. h.w.: BBC Crawler  
+>>>讀取第一頁以外的資料：try selenium(find_elements_by...) to collect dates, titles and summary  
+>>>找比較的基金（使用Yahoo Finance，很多檔基金DataReader找不到)
+
+2019-04-25
+>week10:
+>>i. h.w.: BBC Crawler  
+>>>refine news crawler: using selenium & BeautifulSoup (page_source)  
+>>>barplot: daily events count
+
+
+
+
 	
