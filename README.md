@@ -61,7 +61,38 @@
 >>>refine news crawler: using selenium & BeautifulSoup (page_source)  
 >>>barplot: daily events count
 
+2019-05-02  
+>week11:  
+>>i. get BBC news content and save as pickle file  
 
+2019-05-09  
+>week12:  
+>>i.文字探勘：  
+>>>文字預處理：TF-IDF  
+>>>關連性分析：Apriori、共現圖(networkx)
+
+2019-05-16  
+>week13:  
+>>期末pitch
+
+2019-05-23
+>week14:  
+>>i. Project:  
+>>>crawl Reuters news : US-China Trade War  
+>>>Apriori、共現圖
+
+2019-05-30  
+>week15:  
+>>i. Project:  
+>>>Preprocessing news content : nltk.tokenize - chop words, remove punctuations & stopWords  
+>>>Calculate sentiment scores : SentimentIntensityAnalyzer  
+>>>Barplots : Date & Score  
+
+2019-06-06  
+>week16:  
+>>i. Project:  
+>>>Google Translator: translate Chinese news into English  
+>>>Select ETF targets
 
 
 	
