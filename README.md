@@ -94,5 +94,11 @@
 >>>Google Translator: translate Chinese news into English  
 >>>Select ETF targets
 
+2019-06-13  
+>week17:  
+>>i. Project:  
+>>>Run ETF Regression  
+>>>Conclusion
+
 
 	
